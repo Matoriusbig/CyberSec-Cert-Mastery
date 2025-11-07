@@ -1,43 +1,69 @@
-# 🛡️ **Security-Writeups-Hub : Guias de estudio de Ciberseguridad de @matoriusbig**
-> Colección de write-ups, guías de estudio y análisis de riesgo de mis certificaciones y laboratorios (CompTIA, OSCP, HTB).
+# 🛡️ CyberSec-Cert-Mastery: El Camino Estructurado a la Ciberseguridad | @matoriusbig
+
+> **Colección de Guías Curadas, Write-ups y Análisis Tácticos.** Este repositorio documenta mi enfoque estratégico para dominar las certificaciones líderes de la industria (CompTIA, ISC2, OSCP) y los laboratorios avanzados (HTB).
+
+[![GitHub stars](https://img.shields.io/github/stars/TU_USUARIO/NOMBRE_REPOSITORIO.svg?style=social&label=Star)](https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/TU_USUARIO/NOMBRE_REPOSITORIO.svg)](https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO/commits/main)
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue)](./LICENSE)
 
 ---
 
-## 👋 ¡Hola! Soy @matoriusbig
+## 🚀 **¿Cómo Comenzar en Ciberseguridad o Hacking?**
 
-Soy un estudiante de **Ingeniería Informática** apasionado por el hacking 👨‍💻, la ciberseguridad y el análisis de amenazas.
+**Hace tiempo me hice la pregunta de: ¿Cómo comenzar en ciberseguridad o el mundo del hacking? ¡Aquí te muestro cómo!**
 
-Hace tiempo me hice la pregunta de **¿Cómo comenzár en ciberseguridad o el mundo del hacking?** 
-**Aquí te muestro cómo!**
+Al igual que tú, enfrenté la frustración de la información fragmentada en foros y el **alto costo de la educación de calidad**. Mi solución fue crear una **ruta clara y accesible**. Este repositorio es mi compromiso para eliminar esas barreras.
 
-Este repositorio documenta mi viaje de aprendizaje y mis análisis técnicos mientras me preparo para las certificaciones líderes de la industria.
+### 🎯 **Propósito: SER EL PATH DEFINITIVO!**
+
+Este proyecto es una guía de como comencé mi viaje en la ciber. Aquí guardo mis:
+
+* **Guías Tácticas de Certificación:** Material clave curado de fuentes premium.
+* **Análisis Post-Examen 📝:** *Insights* de primera mano sobre lo que realmente importa en la prueba.
+* **Laboratorios Aplicados:** *Write-ups* y código de automatización para skills prácticos.
 
 ---
 
-## 🎯 **Propósito del Repositorio: El Centro de Conocimiento para la Ciberseguridad**
-Hace tiempo identifiqué dos barreras significativas en el camino hacia la ciberseguridad:
+## 👋 **Perfil del Propietario**
 
-* El no saber por donde empezar! después de ver a tantos influencer hablar de cómo empezar y leer muchísimos foros en reditt, **Éste es el camino definitivo a este increible mundo llamado ciberseguiridad! 🌏💻**
+Soy **@matoriusbig**, estudiante de **Ingeniería Informática** con una profunda pasión por la seguridad de la información, la respuesta a incidentes y el análisis de amenazas 👨‍💻.
 
-* La alta barrera económica de la educación en este campo. **(El alto costo de los cursos y certificaciones!).** Luego de costearme bastantes cursos, membresías en plataformas educativas y sumado mi carrera universitaria me motivó a crear esta iniciativa.
+### 🧠 **Metodología: Sintetizado por IA, Validado por Experiencia**
 
-¡Este repositorio está diseñado para eliminar esa barrera y ser tu recurso principal!
+El valor diferencial de este repositorio radica en el proceso de curación:
 
-Aquí consolido todo el conocimiento clave que adquiero: apuntes de certificaciones de pago, material de laboratorios avanzados y conceptos universitarios, todo accesible para ti.
+| FASE | OBJETIVO | VALOR AÑADIDO |
+| :--- | :--- | :--- |
+| **1. Síntesis (IA)** 🤖 | Cobertura y Estructura. | Generación rápida de contenido técnico y estructurado. |
+| **2. Validación (Humana)** ✅ | Precisión y Claridad. | Revisión y corrección por experto en dominio. |
+| **3. Enriquecimiento (Táctico)** 💡 | Aplicación y Dominio. | Inclusión de **Ejemplos Prácticos**, y **Análisis del Por Qué**, que va más allá de la memorización. |
 
-## 🧠 Metodología: Sintetizado por IA, Validado y Enrequesido por mi Experiencia Personal Aplicada.
+---
 
-El valor de este repositorio reside en su proceso de creación:
+## 🏆 **Mis Habilidades y Trayectoria (Quick View)**
 
-* Todo el contenido proviene de materiales de estudio de alta calidad (cursos especializados).
+### Próximamente... 🔜
 
-* El material ha sido sintetizado y estructurado inicialmente con Inteligencia Artificial y luego de revisado minuciosamente, validado y enriquecido por mi experiencia práctica.
+### 📜 Certificaciones en la Mira
 
-* Mi objetivo no es la memorización superficial, sino dominar el "por qué" detrás de cada concepto de seguridad.
+| Certificación | Nivel | Estado | Carpeta |
+| :---: | :---: | :---: | :---: |
+| ![ISC2 CC](https://img.shields.io/badge/ISC2-CC-247BA0?style=flat&logo=isc2) | Foundation | 🔄 En Progreso | [`./ISC2_CC/`](./ISC2_CC/) |
+| ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-FF6633?style=flat&logo=comptia) | Foundation | ⏳ Próximo Foco | [`./CompTIA_NetworkPlus/`](./CompTIA_NetworkPlus/) |
+| ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-582E88?style=flat&logo=comptia) | Intermedio | 🎯 Meta a Largo Plazo | [`./CompTIA_SecurityPlus/`](./CompTIA_SecurityPlus/) |
+| **OSCP (Offensive Security)** | Advanced | 🎯 Meta a Largo Plazo | [`./OffSec/`](./OffSec/) |
 
-Espero sinceramente que este repositorio te sea de gran utilidad en tu propio viaje hacia la maestría en ciberseguridad. ¡Vamos a aprender y a avanzar juntos! 🚀
+### 💻 Tooling & Habilidades Técnicas
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Tool-Wireshark-1679A8?style=flat&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
 > [!WARNING]
-> Este es un proyecto en constante evolución. Si encuentras errores o tienes alguna idea para complementar este repositorio de ayuda para aspirantes en ciberseguridad, ¡contáctame!
+> Este es un proyecto en constante evolución. Si encuentras errores o deseas complementar el material, por favor, ¡siente la libertad de contactarme o abrir un **Issue**! **¡Vamos a aprender y a avanzar juntos!** 🚀
 
 ---
 
