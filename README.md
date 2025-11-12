@@ -48,16 +48,16 @@ La certificación **fundamental** para construir tu base. Cubre los 5 dominios c
   
   * [1.1 - Conceptos de Seguridad (Tríada CIA)](./ISC2-CC/Dominio-1/Conceptos-Seguridad.md) 
   * [1.2 - Gestión de Riesgos](./ISC2-CC/Dominio-1/Gestion-de-Riesgos.md)
-  * [1.3 - Tipos de Controles de Seguridad](./ISC2-CC/Dominio-1/Controles-de-Seguridad.md)
+  * [1.3 - Tipos de Controles de Seguridad](./ISC2-CC/Dominio-1/Control-Seguridad.md)
   * [1.4 - Gobernanza de Seguridad](./ISC2-CC/Dominio-1/Gobernanza-Seguridad.md)
-  * [1.5 - Código de Ética de (ISC)²](./ISC2-CC/Dominio-1/Etica-ISC2.md)
+  * [1.5 - Código de Ética de (ISC)²](./ISC2-CC/Dominio-1/Código-Ética.md)
 </details>
 
 <details>
 <summary><strong>🚨 Dominio 2: Continuidad del Negocio (BC), DR y Respuesta a Incidentes (10%)</strong></summary>
   
   * [2.1 - Continuidad del Negocio (BCP & BIA)](./ISC2-CC/Dominio-2/Continuidad-Negocio.md)
-  * [2.2 - Recuperación ante Desastres (DRP & RTO/RPO)](./ISC2-CC/Dominio-2/Recuperacion-Desastres.md)
+  * [2.2 - Recuperación ante Desastres (DRP & RTO/RPO)](./ISC2-CC/Dominio-2/Recuperación-Desastres.md)
   * [2.3 - Respuesta a Incidentes (IRP & NIST)](./ISC2-CC/Dominio-2/Respuesta-Incidentes.md)
 </details>
 
