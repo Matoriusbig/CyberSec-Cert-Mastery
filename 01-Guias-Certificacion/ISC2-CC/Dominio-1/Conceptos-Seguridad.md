@@ -25,7 +25,7 @@ Piénsalo como las tres patas de un taburete: si falla una, todo el sistema se c
 
 - **Definición Clara:** Asegurarse de que los sistemas y los datos estén **accesibles para los usuarios autorizados cuando los necesiten**.
 - **El Desafío:** No significa que deba funcionar el 100% del tiempo, sino que debe cumplir con las *necesidades del negocio*.
-- **Ejemplo Práctico:** El terror de todo CISO: un ataque **DDoS (Denegación de Servicio Distribuido)**. Un atacante inunda un sitio web (como un e-commerce) con tanto tráfico basura que los usuarios legítimos no pueden entrar. La información sigue siendo *confidencial* e *íntegra*, pero como nadie puede acceder a ella, la **disponibilidad** se ha roto.
+- **Ejemplo Práctico:** Un ataque **DDoS (Denegación de Servicio Distribuido)**. Un atacante inunda un sitio web (como un e-commerce) con tanto tráfico basura que los usuarios legítimos no pueden entrar. La información sigue siendo *confidencial* e *íntegra*, pero como nadie puede acceder a ella, la **disponibilidad** se ha roto.
 - **Términos Clave:**
     - **Criticidad:** ¿Qué tan importante es el sistema? Un e-commerce en Black Friday tiene una criticidad altísima.
 
